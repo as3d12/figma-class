@@ -1,1 +1,1 @@
-# figma-class
+# figma
